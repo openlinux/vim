@@ -1,0 +1,18 @@
+Vim plugins for C/C++ users.
+1. project window manager support .
+2. tags window manager support .
+3. c/c++ php java auto-commplete support.
+4. ctags support 
+5. cscope support
+6. LookUp file support
+7. grep support 
+8. vim git support
+
+Usage:
+
+	ubuntu 11.04 for example.
+	sudo apt-get install vim-common  or vim-gtk     
+	cp -fr vim  ~/.vim 
+	cp -f vimrc ~/.vimrc
+	cp -f gvimrc ~/.gvimrc
+
